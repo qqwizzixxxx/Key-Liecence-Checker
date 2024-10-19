@@ -1,1 +1,1 @@
-Input("Wazaaaaa From The Dev Aka qqwizzixxxx")
+input("Wazaaaaa From The Dev Aka qqwizzixxxx")
